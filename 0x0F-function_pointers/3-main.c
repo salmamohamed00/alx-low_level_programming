@@ -9,7 +9,7 @@
   * Return: ...
   */
 
-int main(int agc, char *argv[])
+int main(int argc, char *argv[])
 {
 	int (*oprt)(int, int);
 
